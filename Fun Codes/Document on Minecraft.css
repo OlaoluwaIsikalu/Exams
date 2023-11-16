@@ -1,0 +1,47 @@
+#Gunpowder{
+    color: rgb(57, 180, 0);
+    background-color: brown;
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
+#Jeb{
+    margin-left: 50%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    border-radius: 15%;
+    margin-right: 50%;
+}
+
+#Brainz{
+    color: rgb(7, 100, 0);
+    background-color: rgba(0, 0, 177, 0.534);
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
+#Bone{
+    color: rgb(93, 93, 93);
+    background-color: rgb(208, 208, 208);
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
+#ETP{
+    color:rgb(26, 0, 118);
+    background-color: rgb(255, 255, 90);
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
+#img{
+    background-color: rgb(101, 132, 0);
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
