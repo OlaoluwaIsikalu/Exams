@@ -51,10 +51,12 @@
 }
 
 #Divide{
+    display: flex;
     background-color: #FFF7F5;
     border-radius: 19.5%;
     color: #CCA0A5;
-    /* display: flex; */
+    
+}  
 
 #Math{
     color: #9d7cff;
