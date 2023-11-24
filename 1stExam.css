@@ -4,6 +4,7 @@
     justify-content: center;
     margin: 20%;
     grid-template-columns: 1fr 1fr;
+    border-radius: 10%;
 }
 
 #Three{
@@ -15,9 +16,47 @@
     flex-direction: column;
 }
 
+
+/* #ABCDEFGUN{
+  margin-top: 5%;
+}  */
+
 #Four{
     margin-left: 15%;
     margin-right: 15%;
+}
+
+#Fourb{
+    
+    margin-right: 15%;
+    background-color: rgb(255, 255, 245);
+    color: #cbcca0;
+    border-radius: 28%;
+    justify-content: flex;
+    width: 99%;
+    margin-top: 5%;
+}
+
+#Fourc{
+    
+    margin-right: 15%;
+    background-color: #c4debe;
+    color: #798878;
+    border-radius: 5%;
+    width: 99%;
+    margin-top: 5%;
+
+}
+
+#Fourd{
+    
+    margin-right: 15%;
+    background-color: rgb(204, 203, 249);
+    color: #a2a0cc;
+    border-radius: 28%;
+    justify-content: flex;
+    width: 99%;
+    margin-top: 5%;
 }
 
 #Five{
@@ -60,4 +99,129 @@
 
 #Math{
     color: #9d7cff;
+}
+
+#Subddition{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+#More{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+#Less{
+    margin-left: 10px;
+}
+
+
+#Plankton{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#Fifteen{
+    margin-left: 120px;
+}
+
+#Subdditionb{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+#Moreb{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+#Lessb{
+    margin-left: 10px;
+}
+
+#Braine{
+    border-radius: 25%;
+    background-color: rgb(0, 27, 53);
+    color: rgb(235, 235, 235);
+    margin-top: 10%;
+    width: 99%;
+    height: 10%;
+}
+
+#Planktonb{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#Fifteenb{
+    margin-left: 120px;
+}
+
+#Subdditionc{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+#Morec{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+#Lessc{
+    margin-left: 10px;
+}
+
+
+#Planktonc{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#Fifteenc{
+    margin-left: 120px;
+}
+
+#HIJACK{
+    color: rgb(0, 0, 69);
+    
+}
+
+#Subdditiond{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+#Mored{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+#Lessd{
+    margin-left: 10px;
+}
+
+
+#Planktond{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#Fifteend{
+    margin-left: 120px;
 }
