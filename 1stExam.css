@@ -1,5 +1,5 @@
 #Two{
-     background-color: aliceblue; 
+    
     display: grid;
     justify-content: center;
     margin: 20%;
@@ -22,22 +22,26 @@
 }  */
 
 #Four{
-    margin-left: 15%;
-    margin-right: 15%;
+    /* margin-left: 15%;
     
+    margin-right: 15%; */
+    box-shadow: 2px 2px aliceblue;
+     padding-left: 15%;
+    
+    padding-right: 15%; 
 }
 
 #Fourb{
     
     margin-right: 15%;
-    background-color: rgb(255, 255, 245);
-    color: #cbcca0;
+    background-color: rgb(255, 246, 196);
+    color: rgb(255, 239, 93);
     border-radius: 15%;
-    justify-content: flex;
     width: 99%;
     margin-top: 5%;
     padding-left: 3%;
     padding-right: 3%;
+    
 }
 
 
@@ -96,11 +100,41 @@
      margin-right: 20%; 
 }
 
+.RedLollipop{
+    background-color: #ffd5da !important;
+    color: #ff495e !important;
+    
+}
+
+.YellowChocolate{
+    background-color: #fff8d5 !important;
+    color: #ffde49 !important;
+    
+}
+
+.IndigoIceCream{                                    
+    background-color: #d7d5ff !important;
+    color: #5e49ff !important;
+    
+}
+.IIC{
+    color: rgb(174, 174, 174);
+}
+
+#HIJACK{
+    color: #a4a4a4;
+}
+
+
+
 #Divide{
-    display: flex;
-    background-color: #FFF7F5;
-    border-radius: 19.5%;
-    color: #CCA0A5;
+    
+    background-color: #ffadad;
+    border-radius: 21%;
+    color: #ca7c85;
+    
+    
+
     
 }  
 
@@ -108,10 +142,11 @@
     color: #9d7cff;
 }
 
-#Subddition{
+#Subbditon{
     display: flex;
     justify-content: space-between;
     padding-left: 3%;
+    padding-right: 2.87%;
     
 }
 
@@ -160,6 +195,7 @@
     margin-top: 10%;
     width: 99%;
     height: 10%;
+    margin-bottom: 15px;
 }
 
 #Planktonb{
