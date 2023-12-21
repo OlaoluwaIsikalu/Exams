@@ -233,7 +233,7 @@
 }
 
 #Fifteenc{
-    margin-left: 120px;
+    margin-left: 70px;
 }
 
 #HIJACK{
@@ -268,3 +268,19 @@
 #Fifteend{
     margin-left: 120px;
 }
+
+ @media (max-width: 767px) {
+    #Two{
+        display: block;
+        margin: 1px;
+    }
+
+    #Half{
+        width: 200px;
+    }
+
+    /* #Three{
+        width: 333px;
+    } */
+}
+
