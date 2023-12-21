@@ -190,12 +190,14 @@
 
 #Braine{
     border-radius: 25%;
-    background-color: rgb(0, 27, 53);
+    padding: 5%;;
+    background-color: rgb(0, 27, 53) !important;
     color: rgb(235, 235, 235);
     margin-top: 10%;
     width: 99%;
     height: 10%;
     margin-bottom: 15px;
+    
 }
 
 #Planktonb{
@@ -279,8 +281,14 @@
         width: 200px;
     }
 
-    /* #Three{
-        width: 333px;
-    } */
+    #Four{
+        padding-left: 5%;
+    
+    padding-right: 10%;
+    } 
+
+    #Braine{
+        height: 50px;
+    }
 }
 
